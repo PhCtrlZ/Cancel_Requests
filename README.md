@@ -25,3 +25,4 @@ The cancellation speed can be adjusted via a **delay timer** to avoid triggering
 - Install required libraries:
   ```bash
   pip install PyQt5 selenium webdriver-manager
+<img width="760" height="561" alt="image" src="https://github.com/user-attachments/assets/6501680d-9102-4d7d-9f11-4dcecf09fb49" />
